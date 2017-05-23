@@ -1,2 +1,2 @@
 # hello-world
-getting started with python
+getting started with python programming
